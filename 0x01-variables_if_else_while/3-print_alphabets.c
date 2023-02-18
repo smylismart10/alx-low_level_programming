@@ -13,6 +13,7 @@ int main(void)
 	{
 		putchar(c);
 		c++;
+		
 			}
 	
 	c = 'A';
@@ -25,4 +26,5 @@ int main(void)
 
 		putchar('\n');
 		return (0);
+
 }
